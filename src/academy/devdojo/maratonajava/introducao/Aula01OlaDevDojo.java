@@ -4,7 +4,7 @@ package academy.devdojo.maratonajava.introducao;
  * isso é um comentario <br>Javadoc<br>
  * clique CTRL + Q para renderizar o javadoc
  */
-public class OlaDevDojo {
+public class Aula01OlaDevDojo {
     // comentario em linha
     /*
     comentario
