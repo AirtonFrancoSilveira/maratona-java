@@ -15,6 +15,13 @@ public class Aula2TiposPrimitivos {
         boolean verdadeiroOrFalse = true;
         char caractere = 'A'; // here you can use table unicode Ex: char caractere = '\u0041';
 
+        /*
+            Variaves que não são tipos primitivos, no exemplo temos a String que é uma classe
+         */
+        String nome = "Goku";
+
+        System.out.println("Oi eu sou " + nome);
+
         System.out.println("A idade é " + idadeDopai + " anos");
     }
 }
